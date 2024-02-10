@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://t.me/forofonov" target="_blank">Vyacheslav (Slava)</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">I am a self-taught developer who loves making games and showcasing them for everyone to see, constantly improving and getting better with each attempt.</h3>
 
 <!--
 **Forofonof/Forofonof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
